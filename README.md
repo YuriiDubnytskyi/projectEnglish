@@ -1,2 +1,1 @@
-# projectEnglish
-project english v2
+# Very very Old version [newEng](https://github.com/YuriiDubnytskyi/newEng) project
